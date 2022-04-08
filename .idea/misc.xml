@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/drawable-v24/ic_logout.xml" value="0.2703125" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/activity_intro.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/bottom_sheet_khoahoc.xml" value="0.25025641025641027" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/dialog_xoa.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_changepassword.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_gioi_thieu_.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_khoan_chi_.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_khoan_thu.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_tab__khoan_chi_.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_tab__loai_chi_.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_tab__loai_thu_.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_tab_khoan_thu.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/fragment_thong_ke_.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/header_drawerlayout.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/item_girl.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/oneitem_recylerview.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/spiner.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/them_khoan_thuchi.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/them_loai_thuchi.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/layout/thong_tin_gd.xml" value="0.25416666666666665" />
+        <entry key="..\:/QUANLITHUCHI/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
